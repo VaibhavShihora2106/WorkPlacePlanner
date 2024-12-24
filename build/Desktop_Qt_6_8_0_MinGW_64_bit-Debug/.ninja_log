@@ -1,0 +1,36 @@
+# ninja log v6
+178	3577	7563522686255980	CMakeFiles/Workplace_1.dir/mainwindow.cpp.obj	81b776cd637de154
+2166	16633	7562742064163369	CMakeFiles/Workplace_1.dir/Workplace_1_autogen/EWIEGA46WW/qrc_resources.cpp.obj	baa62d1780037e74
+980	4364	7563521095223721	CMakeFiles/Workplace_1.dir/Workplace_1_autogen/mocs_compilation.cpp.obj	b3d945e85af4b62
+34	177	7563522684813931	Workplace_1_autogen/timestamp	d27a55b9dc4d466e
+1432	2123	7562742063427228	D:/QT Application/App/WorkPlacePlanner/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Workplace_1_autogen/EWIEGA46WW/qrc_resources.cpp	c246cc48cdc556be
+34	177	7563522684813931	Workplace_1_autogen/mocs_compilation.cpp	d27a55b9dc4d466e
+34	177	7563522684813931	D:/QT Application/App/WorkPlacePlanner/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Workplace_1_autogen/timestamp	d27a55b9dc4d466e
+34	177	7563522684813931	D:/QT Application/App/WorkPlacePlanner/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Workplace_1_autogen/mocs_compilation.cpp	d27a55b9dc4d466e
+984	4363	7563521095265534	CMakeFiles/Workplace_1.dir/main.cpp.obj	82fc1eeb6e925b92
+672	6245	7562865553316951	CMakeFiles/Workplace_1.dir/customitem.cpp.obj	2f7a974bdf61b519
+8796	9976	7562880319733329	Workplace_1.exe	31ee2b955cd3c0d0
+41	79	7562742003616887	CMakeFiles/clean.additional	baedbe210acaa455
+79	94	7562742003989006	clean	577b940aee94fbd7
+1432	2123	7562742063427228	Workplace_1_autogen/EWIEGA46WW/qrc_resources.cpp	c246cc48cdc556be
+2157	7316	7562742064073340	CMakeFiles/Workplace_1.dir/customgraphicsscene.cpp.obj	279544aa91e54974
+767	3265	7562761354704968	CMakeFiles/Workplace_1.dir/CustomGraphicsScene.cpp.obj	ff380148a6b70235
+36	177	7563523203881036	Workplace_1_autogen/timestamp	d27a55b9dc4d466e
+36	177	7563523203881036	Workplace_1_autogen/mocs_compilation.cpp	d27a55b9dc4d466e
+36	177	7563523203881036	D:/QT Application/App/WorkPlacePlanner/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Workplace_1_autogen/timestamp	d27a55b9dc4d466e
+36	177	7563523203881036	D:/QT Application/App/WorkPlacePlanner/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Workplace_1_autogen/mocs_compilation.cpp	d27a55b9dc4d466e
+177	3574	7563523205299263	CMakeFiles/Workplace_1.dir/mainwindow.cpp.obj	81b776cd637de154
+32	744	7563525183506607	Workplace_1_autogen/timestamp	d27a55b9dc4d466e
+32	744	7563525183506607	Workplace_1_autogen/mocs_compilation.cpp	d27a55b9dc4d466e
+32	744	7563525183506607	D:/QT Application/App/WorkPlacePlanner/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Workplace_1_autogen/timestamp	d27a55b9dc4d466e
+32	744	7563525183506607	D:/QT Application/App/WorkPlacePlanner/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Workplace_1_autogen/mocs_compilation.cpp	d27a55b9dc4d466e
+744	3843	7563525184227007	CMakeFiles/Workplace_1.dir/Workplace_1_autogen/mocs_compilation.cpp.obj	b3d945e85af4b62
+752	3868	7563525184297318	CMakeFiles/Workplace_1.dir/main.cpp.obj	82fc1eeb6e925b92
+754	4556	7563525184337098	CMakeFiles/Workplace_1.dir/mainwindow.cpp.obj	81b776cd637de154
+4556	5003	7563525222356364	Workplace_1.exe	31ee2b955cd3c0d0
+19	186	7563535341534843	Workplace_1_autogen/timestamp	d27a55b9dc4d466e
+19	186	7563535341534843	Workplace_1_autogen/mocs_compilation.cpp	d27a55b9dc4d466e
+19	186	7563535341534843	D:/QT Application/App/WorkPlacePlanner/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Workplace_1_autogen/timestamp	d27a55b9dc4d466e
+19	186	7563535341534843	D:/QT Application/App/WorkPlacePlanner/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Workplace_1_autogen/mocs_compilation.cpp	d27a55b9dc4d466e
+186	3925	7563535343203768	CMakeFiles/Workplace_1.dir/mainwindow.cpp.obj	81b776cd637de154
+3925	4380	7563535380593711	Workplace_1.exe	31ee2b955cd3c0d0
